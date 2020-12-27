@@ -1,0 +1,14 @@
+[07-Apr-2020 00:43:34 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/bxmuv3imv55u/public_html/wp-admin/includes/upgrade.php on line 12
+[07-Apr-2020 00:43:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home/bxmuv3imv55u/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 /home/bxmuv3imv55u/public_html/wp-admin/includes/upgrade.php(17): require_once()
+#1 /home/bxmuv3imv55u/public_html/wp-admin/install.php(39): require_once('/home/bxmuv3imv...')
+#2 {main}
+  thrown in /home/bxmuv3imv55u/public_html/wp-admin/includes/admin.php on line 16
+[07-Apr-2020 00:43:38 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/bxmuv3imv55u/public_html/wp-admin/includes/upgrade.php on line 12
+[07-Apr-2020 00:43:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home/bxmuv3imv55u/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 /home/bxmuv3imv55u/public_html/wp-admin/includes/upgrade.php(17): require_once()
+#1 /home/bxmuv3imv55u/public_html/wp-admin/install.php(39): require_once('/home/bxmuv3imv...')
+#2 {main}
+  thrown in /home/bxmuv3imv55u/public_html/wp-admin/includes/admin.php on line 16
